@@ -7,7 +7,7 @@ Project-one(phase-one)
 ## Weather App
 This program provides a weather update on certain locations eg Nairobi,Kajiado,Kisumu,Mombasa,Nakuru,Busia,Marsabit,Mandera,Isiolo,Kakamega,Murang'a,Garissa,Machakos,Kilifi,Narok,Kericho,Eldoret,Trans-nzoia,Baringo,Bomet,Bungoma,Elgeyo-Marakwet,Embu.The program also shows temperature,,description of the weather condition,weather icon,humidity,windspeed and  UVindex of the places named above .
 ## LIVE SITE
-
+https://github.com/Dudley-hue/dudley-project-one.git
 ## TECHNOLOGIES
 1.HTML
 2.CSS
