@@ -293,6 +293,36 @@
       "visibility": "11 km",
       "lat": "-0.5380",
       "lon": "37.4596"
+    },
+    {
+      "id": "24",
+      "county": "Kisii",
+      "wind": "6 MPH",
+      "temp": "26",
+      "humidity": "72",
+      "Uv index": "7",
+      "description": "Clear sky",
+      "icon": "01d",
+      "rainpossibility": "8%",
+      "windchill": "Safe",
+      "visibility": "10 km",
+      "lat": "-0.6884",
+      "lon": "34.7756"
+    },
+    {
+      "id": "25",
+      "county": "Wajir",
+      "wind": "3 MPH",
+      "temp": "23",
+      "humidity": "68",
+      "Uv index": "6",
+      "description": "Sunny",
+      "icon": "01d",
+      "rainpossibility": "10%",
+      "windchill": "Moderate",
+      "visibility": "12 km",
+      "lat": "0.2847",
+      "lon": "34.7528"
     }
   ]
 }
